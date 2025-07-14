@@ -1,0 +1,12 @@
+title: Jerris Nitin G Portfolio
+email: your.email@example.com
+description: >- # this means to ignore newlines until next blank line
+  Portfolio site of Jerris Nitin G, software developer and cloud enthusiast.
+baseurl: "" # leave empty unless hosted in a subfolder
+url: "https://yourusername.github.io" # your site URL
+
+theme: minima  # or any other GitHub-supported theme
+
+twitter_username: yourtwitterhandle
+github_username: jerrisnitin
+linkedin_username: jerrisnitin
